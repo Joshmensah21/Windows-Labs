@@ -54,20 +54,20 @@ The investigation showed that the computer is running Windows 11 64-bit with an 
 
 ## 📸 7. Screenshots
 
-### Figure 1 – Output of systeminfo
-![Output of systeminfo](screenshots/01_system_info.png)
+### Figure 1 - Output of systeminfo
+![Output of systeminfo](Lab-01-Windows-System-Investigation/screenshots/01_system_info.png)
 
-### Figure 2 – Output of ipconfig /all
-![Output of ipconfig /all](screenshots/02_ipconfig_all.png)
+### Figure 2 - Output of ipconfig /all
+![Output of ipconfig /all](Lab-01-Windows-System-Investigation/screenshots/02_ipconfig_all.png)
 
-### Figure 3 – Task Manager (Before)
-![Task Manager Before](screenshots/03_task_manager_before.png)
+### Figure 3 - Task Manager (Before)
+![Task Manager Before](Lab-01-Windows-System-Investigation/screenshots/03_task_manager_before.png)
 
-### Figure 4 – Task Manager (After)
-![Task Manager After](screenshots/04_task_manager_after.png)
+### Figure 4 - Task Manager (After)
+![Task Manager After](Lab-01-Windows-System-Investigation/screenshots/04_task_manager_after.png)
 
 ### Figure 5 – Storage Details
-![Storage Screenshot](screenshots/05_storage_screenshot.png)
+![Storage Screenshot](Lab-01-Windows-System-Investigation/screenshots/05_storage_screenshot.png)
 
 ### Figure 6 – Device Manager Status
-![Device Manager](screenshots/06_device_manager.png)
+![Device Manager](Lab-01-Windows-System-Investigation/screenshots/06_device_manager.png)

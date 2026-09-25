@@ -49,10 +49,10 @@ During the lab, I encountered an unexpected result when TestEmployee was still a
 ## 📸 7. Screenshots
 
 ### Figure 1 – IT-Support-Test folder containing Employee-Notes.txt
-![IT-Support-Test folder containing Employee-Notes.txt](Lab-02-User-Accounts-and-Permissions/screenshots/01_IT_Support_Test_Folder.png)
+![IT-Support-Test folder containing Employee-Notes.txt](screenshots/01_IT_Support_Test_Folder.png)
 
 ### Figure 2 – NTFS permissions assigned to the IT-Support-Test folder
-![NTFS permissions assigned to the IT-Support-Test folder](Lab-02-User-Accounts-and-Permissions/screenshots/02_NTFS_Permissions.png)
+![NTFS permissions assigned to the IT-Support-Test folder](screenshots/02_NTFS_Permissions.png)
 
 ### Figure 3 – Permissions assigned to the Users group
-![Permissions assigned to the Users group](Lab-02-User-Accounts-and-Permissions/screenshots/03_netwpliz_verification.png)
+![Permissions assigned to the Users group](screenshots/03_netwpliz_verification.png)
